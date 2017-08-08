@@ -1,0 +1,6 @@
+[package]
+name = "diagonal-difference"
+version = "0.1.0"
+authors = ["Stephan Bischoff <stephan.bischoff.hg@googlemail.com>"]
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "a-very-big-sum"
+version = "0.1.0"
+authors = ["Stephan Bischoff <stephan.bischoff.hg@googlemail.com>"]
+
+[dependencies]

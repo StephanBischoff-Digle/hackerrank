@@ -1,0 +1,8 @@
+[package]
+name = "plus-minus"
+version = "0.1.0"
+authors = ["Stephan Bischoff <stephan.bischoff.hg@googlemail.com>"]
+
+[dependencies]
+log = "0.3.8"
+env_logger = "0.4.3"
